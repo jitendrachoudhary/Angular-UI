@@ -1,1 +1,0 @@
-# Infoelan angular js 
